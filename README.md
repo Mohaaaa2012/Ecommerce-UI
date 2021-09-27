@@ -1,4 +1,4 @@
-# Ecommerce-UI-Clone
+# Ecommerce-UI
 Clone the UI of an E-commerce application
 
 
